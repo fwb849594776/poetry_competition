@@ -1,0 +1,20 @@
+{
+    "name": "theone-daxia/poetry_category",
+    "description": "诗词大会题库",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xiaoyu",
+            "email": "xiaoyu.han@mfashion.com"
+        }
+    ],
+    "require": {
+        "theone-daxia/poetry": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/theone-daxia/poetry.git"
+        }
+    ]
+}
